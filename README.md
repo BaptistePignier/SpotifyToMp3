@@ -7,3 +7,12 @@ For this project, I use several python modules availble here :
 [Json](https://docs.python.org/3/library/json.html) and [Requests](https://pypi.org/project/requests/)<br />
 [Youtube_dl](https://pypi.org/project/youtube_dl/)<br />
 [youtube-search-python](https://pypi.org/project/youtube-search-python/)<br />
+
+
+## Usage
+First replace the url at the top of the code with the one you want <br />
+Then  : <br />
+```
+python3 main.py <br />
+
+```
