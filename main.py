@@ -45,7 +45,6 @@ song_path = dir_path+"/songs/"
 
 nbr_of_track = len(track_list)
 for track in track_list:
-	#track = tracks[0]
 	name = track["track"]["name"]
 	artist = track["track"]["artists"][0]["name"]
 	duration_s = int(track["track"]["duration_ms"]) / 1000 # ms to s
