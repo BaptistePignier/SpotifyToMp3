@@ -13,6 +13,5 @@ For this project, I use several python modules availble here :
 First replace the url at the top of the code with the one you want <br />
 Then  : <br />
 ```
-python3 main.py <br />
-
+python3 main.py
 ```
